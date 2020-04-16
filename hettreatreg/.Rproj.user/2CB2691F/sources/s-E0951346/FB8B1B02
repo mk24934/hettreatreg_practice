@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586916246547.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FB8B1B02",
+    "lastKnownWriteTime" : 1586920702,
+    "last_content_update" : 1586920702348,
+    "path" : "~/Dropbox/hettreatreg/GitHub-Folder/hettreatreg/R/data-description.R",
+    "project_path" : "R/data-description.R",
+    "properties" : {
+        "cursorPosition" : "9,33",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
